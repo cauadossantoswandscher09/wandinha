@@ -1,0 +1,28 @@
+[{
+    "nome": "santos",
+    "idade": "41",
+    "cidade": "parana",
+    "curso": "desenvolvimento de sistema"
+
+},
+{
+    "nome": "wandscher",
+    "idade": "17",
+    "cidade": "londrina",
+    "curso": "administração"
+
+},
+{
+    "nome": "oliveira",
+    "idade": "36",
+    "cidade": "minas gerais",
+    "curso": "bioquimica"
+
+},
+{
+    "nome": "zacarias",
+    "idade": "28",
+    "cidade": "planalto",
+    "curso": "eletrica"
+
+}]
